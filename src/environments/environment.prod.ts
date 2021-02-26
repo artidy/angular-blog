@@ -7,5 +7,6 @@ export const environment: Environment = {
   storageBucket: "angular-blog-11a3e.appspot.com",
   messagingSenderId: "356447252271",
   appId: "1:356447252271:web:29f894b1ac3b02462dbbda",
-  production: true
+  production: true,
+  fbDBURL: 'https://angular-blog-11a3e-default-rtdb.firebaseio.com/'
 };
